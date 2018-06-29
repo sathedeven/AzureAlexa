@@ -1,0 +1,5 @@
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=MyAlexaCountryApp
+--content-root=D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp
+--file=

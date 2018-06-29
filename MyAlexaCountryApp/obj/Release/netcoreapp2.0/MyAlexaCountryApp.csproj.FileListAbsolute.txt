@@ -1,0 +1,11 @@
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\bin\Release\netcoreapp2.0\MyAlexaCountryApp.deps.json
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\bin\Release\netcoreapp2.0\MyAlexaCountryApp.runtimeconfig.json
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\bin\Release\netcoreapp2.0\MyAlexaCountryApp.runtimeconfig.dev.json
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\bin\Release\netcoreapp2.0\MyAlexaCountryApp.dll
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\bin\Release\netcoreapp2.0\MyAlexaCountryApp.pdb
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.csprojResolveAssemblyReference.cache
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.csproj.CoreCompileInputs.cache
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.AssemblyInfoInputs.cache
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.AssemblyInfo.cs
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.dll
+D:\DevProj\Alexa\Alexa_Sample_App\MyAlexaCountryApp\MyAlexaCountryApp\obj\Release\netcoreapp2.0\MyAlexaCountryApp.pdb
